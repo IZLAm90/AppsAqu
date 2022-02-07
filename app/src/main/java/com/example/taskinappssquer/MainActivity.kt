@@ -1,5 +1,6 @@
 package com.example.taskinappssquer
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
@@ -17,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         // val test :TextView =findViewById(R.id.show)
         binding.Btn.setOnClickListener {
             binding.show.setText(R.string.myname)
+            startActivity(Intent(applicationContext,RecyclerViewActivity::class.java))
         }
 
     }
