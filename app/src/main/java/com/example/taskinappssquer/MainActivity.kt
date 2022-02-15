@@ -14,12 +14,10 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         val view = binding.root
         setContentView(view)
-        // val btn :Button=findViewById(R.id.Btn)
-        // val test :TextView =findViewById(R.id.show)
-        binding.Btn.setOnClickListener {
-            binding.show.setText(R.string.myname)
-            startActivity(Intent(applicationContext,RecyclerViewActivity::class.java))
-        }
-
+//
+//        binding.Btn.setOnClickListener {
+//            binding.show.setText(R.string.myname)
+//            startActivity(Intent(applicationContext,RecyclerViewActivity::class.java))
+//        }
     }
 }

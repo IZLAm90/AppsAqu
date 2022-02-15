@@ -8,4 +8,10 @@
     <string name="wednesday_18_40_pm">wednesday - 18:40 PM</string>
     <string name="share">Share</string>
     <string name="todo">TODO</string>
+    <string name="price_eg">Price EG</string>
+    <string name="manga">Manga</string>
+    <string name="item">item</string>
+    <string name="task_one">Task One</string>
+    <string name="mainftasktwo">Task Two</string>
+    <string name="task_three">Task Three</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="price_eg">Price EG</string>
+    <string name="manga">Manga</string>
+    <string name="item">item</string>
+    <string name="task_one">Task One</string>
+    <string name="mainftasktwo">Task Two</string>
+    <string name="task_three">Task Three</string>
+</resources>
